@@ -1,8 +1,0 @@
-metadata:
-  name: vet-service
-spec:
-  port:
-    targetPort: http
-  to:
-    kind: Service
-    name: vet-service
